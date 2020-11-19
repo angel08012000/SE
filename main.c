@@ -3,6 +3,6 @@
 int main(){
     printf("Hello\n");
     printf("addSth\n");
-    printf("ISSUE_TWO\n");
+    printf("Reslove Conflict\n");
     return 0;
 }
